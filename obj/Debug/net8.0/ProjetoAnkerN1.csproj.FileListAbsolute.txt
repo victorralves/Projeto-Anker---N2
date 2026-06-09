@@ -1,0 +1,17 @@
+C:\Users\victo\Downloads\ProjetoAnkerN2\ProjetoAnkerN2\bin\Debug\net8.0\Data\Alunos.dat
+C:\Users\victo\Downloads\ProjetoAnkerN2\ProjetoAnkerN2\bin\Debug\net8.0\Data\Disciplinas.dat
+C:\Users\victo\Downloads\ProjetoAnkerN2\ProjetoAnkerN2\bin\Debug\net8.0\Data\Matriculas.dat
+C:\Users\victo\Downloads\ProjetoAnkerN2\ProjetoAnkerN2\bin\Debug\net8.0\ProjetoAnkerN1.exe
+C:\Users\victo\Downloads\ProjetoAnkerN2\ProjetoAnkerN2\bin\Debug\net8.0\ProjetoAnkerN1.deps.json
+C:\Users\victo\Downloads\ProjetoAnkerN2\ProjetoAnkerN2\bin\Debug\net8.0\ProjetoAnkerN1.runtimeconfig.json
+C:\Users\victo\Downloads\ProjetoAnkerN2\ProjetoAnkerN2\bin\Debug\net8.0\ProjetoAnkerN1.dll
+C:\Users\victo\Downloads\ProjetoAnkerN2\ProjetoAnkerN2\bin\Debug\net8.0\ProjetoAnkerN1.pdb
+C:\Users\victo\Downloads\ProjetoAnkerN2\ProjetoAnkerN2\obj\Debug\net8.0\ProjetoAnkerN1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Downloads\ProjetoAnkerN2\ProjetoAnkerN2\obj\Debug\net8.0\ProjetoAnkerN1.AssemblyInfoInputs.cache
+C:\Users\victo\Downloads\ProjetoAnkerN2\ProjetoAnkerN2\obj\Debug\net8.0\ProjetoAnkerN1.AssemblyInfo.cs
+C:\Users\victo\Downloads\ProjetoAnkerN2\ProjetoAnkerN2\obj\Debug\net8.0\ProjetoAnkerN1.csproj.CoreCompileInputs.cache
+C:\Users\victo\Downloads\ProjetoAnkerN2\ProjetoAnkerN2\obj\Debug\net8.0\ProjetoAnkerN1.dll
+C:\Users\victo\Downloads\ProjetoAnkerN2\ProjetoAnkerN2\obj\Debug\net8.0\refint\ProjetoAnkerN1.dll
+C:\Users\victo\Downloads\ProjetoAnkerN2\ProjetoAnkerN2\obj\Debug\net8.0\ProjetoAnkerN1.pdb
+C:\Users\victo\Downloads\ProjetoAnkerN2\ProjetoAnkerN2\obj\Debug\net8.0\ProjetoAnkerN1.genruntimeconfig.cache
+C:\Users\victo\Downloads\ProjetoAnkerN2\ProjetoAnkerN2\obj\Debug\net8.0\ref\ProjetoAnkerN1.dll
