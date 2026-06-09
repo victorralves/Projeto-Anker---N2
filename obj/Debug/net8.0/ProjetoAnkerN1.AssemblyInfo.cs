@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoAnkerN1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+409cf28648a384931107e4ca34dd4080f95a1d0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00987f2e9febb889cbb73e6a6574de5b08a11701")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoAnkerN1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoAnkerN1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
